@@ -15,27 +15,29 @@ role: B.A., M.Sc., Ph.D. student
 # Organizations/Affiliations
 organizations:
 - name:  McGill University
+- name: Centre For Research on Brain, Language and Music
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests concern language development and developmental disorders. Currently my research focuses on how language input facilitate language acquisition in infancy and how sex hormones shapes one’s developmental trajectory.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Early Development
+- Language Aquisition
+- Sex and Sex Hormones
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Communication Sciences and Disorders (Language Acquisition)
+    institution: McGill University
+    year: present
+  - course: M.Sc. in Fundamental Psychology
+    institution: Beijing Normal University
+    year: 2014
+  - course: B.A. in Chinese Language and Literature
+    institution: Dalian University of Technology
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
