@@ -19,7 +19,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests concern language development and developmental disorders. Currently my research focuses on how language input facilitate language acquisition in infancy and how sex hormones shapes one’s developmental trajectory.
+# bio: 
 
 interests:
 - Early Development
@@ -47,15 +47,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yufang_Ruan
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://scholar.google.com/citations?user=z0OlGZIAAAAJ&hl=en
+- icon: twitter
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/home
+   
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +76,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ruan Yufang is a Ph.D. student of Language Acquisitin at the McGill Infant Speech Perception Lab. Her research interests concern language development and developmental disorders. Currently her research focuses on how language input facilitate language acquisition in infancy and how sex hormones shapes one’s developmental trajectory.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
